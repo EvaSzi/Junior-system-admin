@@ -6,3 +6,4 @@ echo "Rendszeridő: $(date +%H:%M:%S)"
 sleep 1
 echo "Rendszerinformáció: $(uname -a)"
 sleep 1
+echo "Aktuális könyvtár: $PWD"
